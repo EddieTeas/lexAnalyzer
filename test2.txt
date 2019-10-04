@@ -1,0 +1,3 @@
+float mul (float m, float c ) {
+m = m * c;
+}

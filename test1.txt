@@ -1,0 +1,7 @@
+float test (){
+float x ;
+float y ;
+float z ;
+float data ;
+data = x * y / z ;
+}
